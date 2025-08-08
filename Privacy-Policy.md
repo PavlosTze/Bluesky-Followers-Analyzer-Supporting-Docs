@@ -1,10 +1,10 @@
-# Privacy Policy for Bluesky Unfollowers Tracker mobile app
+# Privacy Policy for Tracker - Manager for Bluesky mobile app
 
 # Privacy Policy
 
 **Effective Date:** 18 December 2024
 
-**Bluesky Unfollowers Tracker** ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application **Bluesky Unfollowers Tracker** (the "App") on iOS and Android devices. Please read this Privacy Policy carefully. By using the App, you agree to the terms of this Privacy Policy.
+*Tracker - Manager for Bluesky** ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application **Tracker - Manager for Bluesky** (the "App") on iOS and Android devices. Please read this Privacy Policy carefully. By using the App, you agree to the terms of this Privacy Policy.
 
 If you do not agree with the terms of this Privacy Policy, please do not use the App.
 
@@ -83,8 +83,8 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Bluesky Unfollowers Tracker**  
+**Tracker - Manager for Bluesky**  
 **Email:** tzegianapps@gmail.com
 
-Thank you for using **Bluesky Unfollowers Tracker**!
+Thank you for using **Tracker - Manager for Bluesky**!
 
