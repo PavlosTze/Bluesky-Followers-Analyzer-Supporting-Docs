@@ -1,11 +1,11 @@
 # Child Sexual Abuse and Exploitation (CSAE) Policy
 
-**Bluesky Unfollowers Tracker**
+**Tracker - Manager for Bluesky**
 
 Last Updated: 17/01/2025
 
 **1. Introduction**
-Bluesky Unfollowers Tracker is a utility app designed to help users track their followers and unfollowers on the Bluesky platform. While our app does not function as a social media platform or facilitate user-generated content, we remain committed to preventing and reporting any instances of child sexual abuse and exploitation (CSAE).
+Tracker - Manager for Bluesky is a utility app designed to help users track their followers and unfollowers on the Bluesky platform. While our app does not function as a social media platform or facilitate user-generated content, we remain committed to preventing and reporting any instances of child sexual abuse and exploitation (CSAE).
 
 **2. Zero Tolerance for CSAE**
 We have a strict zero-tolerance policy for any content, activities, or behaviors related to child sexual abuse and exploitation. If we become aware of any such violations, we will take immediate action, including reporting to appropriate authorities.
